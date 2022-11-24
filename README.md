@@ -1,5 +1,5 @@
 # Best Prepaid Plan for Telecom Operator Megaline
-## [Project Summary](https://nbviewer.org/github/davidefilosa/BestPrepaidPlan/blob/master/BestPrepaidPlan.ipynb)
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/BestPrepaidPlan/blob/master/BestPrepaidPlan.ipynb)
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
